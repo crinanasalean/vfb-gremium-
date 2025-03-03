@@ -1,0 +1,16 @@
+id,name,type,age,function,representation,position
+1,Alexander Wehrle,0,47.0,1.0,Management,1.0
+2,Dr. Thomas Ignatzi,0,52.0,1.0,Finanzen,3.0
+3,Rouven Kasper,0,44.0,1.0,Marketing,3.0
+4,Fabian Wohlgemuth,0,40.0,1.0,Sport,3.0
+5,Dietmar Allgaier,0,55.0,2.0,Politik,1.0
+6,Peter Schymon,0,50.0,2.0,Wirtschaft,2.0
+7,Lutz Meschke,0,51.0,2.0,Finanzen,3.0
+8,Andreas Grupp,0,60.0,2.0,Industrie,3.0
+9,Beate Beck-Deharde,0,45.0,2.0,Verbände,3.0
+10,Tanja Gönner,0,48.0,2.0,Politik,3.0
+11,Alexander Kläger,0,49.0,2.0,Recht,3.0
+12,Tobias Röschl,0,53.0,2.0,Wirtschaft,3.0
+13,Albrecht Reimold,0,54.0,2.0,Automobil,3.0
+14,Franz Reiner,0,56.0,2.0,Banken,3.0
+15,VfB Stuttgart 1893 AG,1,,,,
